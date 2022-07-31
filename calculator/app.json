@@ -1,0 +1,6 @@
+{
+"app":"Calculator",
+"app_version":0.1,
+"requirements_needed":false,
+"store_app_as":"cal.py"
+}
